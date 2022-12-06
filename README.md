@@ -5,9 +5,13 @@
 Firstly, ssh:
 
 cd ~/.ssh
+
 ls
+
 vi id_rsa.pub
+
 // ctrl+a,ctrl+c
+
 :q
 
 Secondly, add ssh key in github
