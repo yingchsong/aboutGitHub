@@ -23,3 +23,15 @@ Settings -> Developer settings -> Personal access tokens -> Generate new token -
 copy token and use following command:
 
 git remote set-url origin  https://<your_token>@github.com/<USERNAME>/<REPO>.git
+
+# clone and push
+
+git clone <URL>
+
+//after update
+
+git add <fileName>
+
+git commit -m 'comments'
+
+git push
