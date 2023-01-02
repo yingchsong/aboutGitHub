@@ -40,3 +40,7 @@ git commit -m 'comments'
 
 git push
 ```
+
+https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
+
+readme file format
